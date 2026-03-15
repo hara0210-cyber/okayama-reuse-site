@@ -1,0 +1,14 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="40" fill="#F6F8F7"/>
+  <circle cx="1046" cy="170" r="128" fill="#D4E6DD"/>
+  <circle cx="1030" cy="674" r="154" fill="#EFF4FB"/>
+  <rect x="114" y="158" width="508" height="492" rx="40" fill="#FFFFFF"/>
+  <path d="M228 338C228 272 281 218 347 218H391C457 218 510 272 510 338V512H228V338Z" fill="#163329"/>
+  <path d="M304 332C304 289 338 254 381 254C424 254 458 289 458 332" stroke="#A9CDBB" stroke-width="18" stroke-linecap="round"/>
+  <rect x="676" y="184" width="366" height="120" rx="32" fill="#FFFFFF"/>
+  <rect x="676" y="348" width="284" height="120" rx="32" fill="#FFFFFF"/>
+  <rect x="676" y="512" width="228" height="120" rx="32" fill="#FFFFFF"/>
+  <text x="732" y="258" fill="#163329" font-family="'Noto Sans JP', sans-serif" font-size="58" font-weight="700">バッグ</text>
+  <text x="732" y="424" fill="#2C4C76" font-family="'Noto Sans JP', sans-serif" font-size="40" font-weight="700">人気モデル歓迎</text>
+  <text x="732" y="590" fill="#395F90" font-family="'Noto Sans JP', sans-serif" font-size="34" font-weight="700">付属品歓迎</text>
+</svg>

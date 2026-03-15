@@ -1,0 +1,16 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="40" fill="#EFF4FB"/>
+  <circle cx="1020" cy="170" r="130" fill="#D8E2F0"/>
+  <circle cx="220" cy="690" r="160" fill="#D4E6DD"/>
+  <rect x="122" y="146" width="428" height="516" rx="40" fill="#FFFFFF"/>
+  <rect x="198" y="228" width="270" height="194" rx="100" fill="#395F90"/>
+  <path d="M208 452H458C493 452 521 480 521 515V542H145V515C145 480 173 452 208 452Z" fill="#A9CDBB"/>
+  <circle cx="223" cy="586" r="34" fill="#2C4C76"/>
+  <circle cx="443" cy="586" r="34" fill="#2C4C76"/>
+  <rect x="646" y="184" width="390" height="120" rx="32" fill="#FFFFFF"/>
+  <rect x="646" y="342" width="316" height="120" rx="32" fill="#FFFFFF"/>
+  <rect x="646" y="500" width="280" height="120" rx="32" fill="#FFFFFF"/>
+  <text x="704" y="256" fill="#1D2D43" font-family="'Noto Sans JP', sans-serif" font-size="54" font-weight="700">ベビー用品</text>
+  <text x="704" y="418" fill="#2F7556" font-family="'Noto Sans JP', sans-serif" font-size="40" font-weight="700">安全性を確認</text>
+  <text x="704" y="576" fill="#395F90" font-family="'Noto Sans JP', sans-serif" font-size="34" font-weight="700">付属品歓迎</text>
+</svg>

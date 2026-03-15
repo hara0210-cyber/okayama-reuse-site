@@ -1,0 +1,13 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="40" fill="#F4F7FB"/>
+  <circle cx="1048" cy="638" r="180" fill="#D8E2F0"/>
+  <rect x="120" y="128" width="476" height="544" rx="40" fill="#FFFFFF"/>
+  <path d="M280 224L358 182L436 224L470 304V560H246V304L280 224Z" fill="#1D4D39"/>
+  <path d="M328 226C328 207 343 192 362 192H354C373 192 388 207 388 226V236H328V226Z" fill="#F4F7FB"/>
+  <rect x="666" y="182" width="386" height="126" rx="32" fill="#FFFFFF"/>
+  <rect x="666" y="348" width="334" height="126" rx="32" fill="#FFFFFF"/>
+  <rect x="666" y="514" width="244" height="126" rx="32" fill="#FFFFFF"/>
+  <text x="720" y="256" fill="#163329" font-family="'Noto Sans JP', sans-serif" font-size="52" font-weight="700">ブランド服</text>
+  <text x="720" y="426" fill="#2C4C76" font-family="'Noto Sans JP', sans-serif" font-size="40" font-weight="700">正規タグ重視</text>
+  <text x="720" y="594" fill="#395F90" font-family="'Noto Sans JP', sans-serif" font-size="34" font-weight="700">状態を丁寧査定</text>
+</svg>

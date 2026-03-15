@@ -1,0 +1,10 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" rx="36" fill="#EEF5F2"/>
+  <rect x="62" y="68" width="676" height="464" rx="28" fill="#FFFFFF"/>
+  <path d="M180 214L234 184L288 214V292H180V214Z" fill="#2F7556"/>
+  <path d="M338 202L390 176L442 202V286H338V202Z" fill="#395F90"/>
+  <path d="M494 220L544 188L594 220V296H494V220Z" fill="#79B195"/>
+  <rect x="136" y="340" width="528" height="108" rx="22" fill="#F6F8F7"/>
+  <text x="160" y="392" fill="#163329" font-family="'Noto Sans JP', sans-serif" font-size="34" font-weight="700">familiar 子供服 12点セット</text>
+  <text x="160" y="432" fill="#395F90" font-family="'Noto Sans JP', sans-serif" font-size="28" font-weight="700">状態良好 / まとめ査定</text>
+</svg>

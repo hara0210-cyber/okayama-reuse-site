@@ -1,0 +1,17 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="40" fill="#EFF4FB"/>
+  <circle cx="1046" cy="644" r="164" fill="#D4E6DD"/>
+  <rect x="124" y="118" width="496" height="560" rx="40" fill="#FFFFFF"/>
+  <rect x="294" y="158" width="154" height="110" rx="28" fill="#20344F"/>
+  <rect x="294" y="526" width="154" height="110" rx="28" fill="#20344F"/>
+  <circle cx="371" cy="396" r="134" fill="#395F90"/>
+  <circle cx="371" cy="396" r="96" fill="#FFFFFF"/>
+  <path d="M371 396L371 332" stroke="#20344F" stroke-width="14" stroke-linecap="round"/>
+  <path d="M371 396L430 428" stroke="#20344F" stroke-width="14" stroke-linecap="round"/>
+  <rect x="676" y="176" width="388" height="130" rx="32" fill="#FFFFFF"/>
+  <rect x="676" y="344" width="330" height="130" rx="32" fill="#FFFFFF"/>
+  <rect x="676" y="512" width="246" height="130" rx="32" fill="#FFFFFF"/>
+  <text x="730" y="254" fill="#1D2D43" font-family="'Noto Sans JP', sans-serif" font-size="58" font-weight="700">時計</text>
+  <text x="730" y="428" fill="#2F7556" font-family="'Noto Sans JP', sans-serif" font-size="40" font-weight="700">保証書歓迎</text>
+  <text x="730" y="596" fill="#395F90" font-family="'Noto Sans JP', sans-serif" font-size="34" font-weight="700">不動品も相談可</text>
+</svg>

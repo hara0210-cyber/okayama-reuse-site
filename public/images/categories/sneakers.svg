@@ -1,0 +1,15 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="40" fill="#E8F2ED"/>
+  <circle cx="1035" cy="166" r="120" fill="#D4E6DD"/>
+  <rect x="108" y="184" width="532" height="456" rx="40" fill="#FFFFFF"/>
+  <path d="M230 472C296 472 364 420 430 356L526 418C554 436 570 466 570 498V534H210C174 534 146 506 146 470V452C146 442 154 434 164 434H192L230 472Z" fill="#225E45"/>
+  <path d="M420 354L486 380L432 422L374 402L420 354Z" fill="#A9CDBB"/>
+  <rect x="264" y="458" width="164" height="18" rx="9" fill="#FFFFFF"/>
+  <rect x="292" y="430" width="132" height="16" rx="8" fill="#FFFFFF"/>
+  <rect x="690" y="188" width="360" height="120" rx="32" fill="#FFFFFF"/>
+  <rect x="690" y="348" width="296" height="120" rx="32" fill="#FFFFFF"/>
+  <rect x="690" y="508" width="232" height="120" rx="32" fill="#FFFFFF"/>
+  <text x="742" y="262" fill="#163329" font-family="'Noto Sans JP', sans-serif" font-size="54" font-weight="700">スニーカー</text>
+  <text x="742" y="424" fill="#225E45" font-family="'Noto Sans JP', sans-serif" font-size="40" font-weight="700">限定モデル対応</text>
+  <text x="742" y="586" fill="#395F90" font-family="'Noto Sans JP', sans-serif" font-size="34" font-weight="700">付属品歓迎</text>
+</svg>

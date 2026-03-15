@@ -1,0 +1,11 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" rx="36" fill="#EFF4FB"/>
+  <rect x="70" y="54" width="660" height="492" rx="28" fill="#FFFFFF"/>
+  <rect x="318" y="94" width="166" height="94" rx="22" fill="#20344F"/>
+  <rect x="318" y="412" width="166" height="94" rx="22" fill="#20344F"/>
+  <circle cx="401" cy="300" r="126" fill="#395F90"/>
+  <circle cx="401" cy="300" r="90" fill="#FFFFFF"/>
+  <path d="M401 300L401 240" stroke="#20344F" stroke-width="12" stroke-linecap="round"/>
+  <path d="M401 300L456 326" stroke="#20344F" stroke-width="12" stroke-linecap="round"/>
+  <text x="132" y="520" fill="#1D2D43" font-family="'Noto Sans JP', sans-serif" font-size="34" font-weight="700">OMEGA Speedmaster / 付属品完備</text>
+</svg>

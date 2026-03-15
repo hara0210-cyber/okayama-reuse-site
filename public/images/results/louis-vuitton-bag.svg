@@ -1,0 +1,8 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" rx="36" fill="#F6F8F7"/>
+  <rect x="62" y="62" width="676" height="476" rx="28" fill="#FFFFFF"/>
+  <path d="M220 248C220 187 269 138 330 138H410C471 138 520 187 520 248V408H220V248Z" fill="#163329"/>
+  <path d="M292 244C292 204 325 171 365 171C405 171 438 204 438 244" stroke="#A9CDBB" stroke-width="16" stroke-linecap="round"/>
+  <rect x="142" y="434" width="516" height="58" rx="18" fill="#F1F5F9"/>
+  <text x="164" y="472" fill="#163329" font-family="'Noto Sans JP', sans-serif" font-size="34" font-weight="700">LOUIS VUITTON モノグラムバッグ</text>
+</svg>

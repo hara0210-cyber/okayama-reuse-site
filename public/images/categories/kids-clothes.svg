@@ -1,0 +1,17 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="40" fill="#EEF5F2"/>
+  <circle cx="972" cy="160" r="120" fill="#D4E6DD"/>
+  <circle cx="1080" cy="680" r="180" fill="#D8E2F0"/>
+  <rect x="110" y="132" width="520" height="536" rx="36" fill="#FFFFFF"/>
+  <path d="M280 250L370 190L460 250V345H280V250Z" fill="#2F7556"/>
+  <path d="M240 248L280 220V345H205C185 345 171 323 179 304L198 259C207 239 226 226 240 248Z" fill="#79B195"/>
+  <path d="M500 248L460 220V345H535C555 345 569 323 561 304L542 259C533 239 514 226 500 248Z" fill="#79B195"/>
+  <rect x="300" y="345" width="140" height="195" rx="20" fill="#D4E6DD"/>
+  <circle cx="370" cy="448" r="26" fill="#FFFFFF"/>
+  <rect x="690" y="184" width="360" height="110" rx="28" fill="#FFFFFF"/>
+  <rect x="690" y="330" width="300" height="110" rx="28" fill="#FFFFFF"/>
+  <rect x="690" y="476" width="260" height="110" rx="28" fill="#FFFFFF"/>
+  <text x="740" y="252" fill="#163329" font-family="'Noto Sans JP', sans-serif" font-size="56" font-weight="700">子供服</text>
+  <text x="740" y="397" fill="#2C4C76" font-family="'Noto Sans JP', sans-serif" font-size="42" font-weight="700">まとめ査定</text>
+  <text x="740" y="543" fill="#395F90" font-family="'Noto Sans JP', sans-serif" font-size="34" font-weight="700">シーズン前歓迎</text>
+</svg>

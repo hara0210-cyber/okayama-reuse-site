@@ -1,0 +1,15 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="800" rx="40" fill="#D4E6DD"/>
+  <circle cx="1028" cy="178" r="138" fill="#EEF5F2"/>
+  <circle cx="1038" cy="658" r="162" fill="#EFF4FB"/>
+  <rect x="118" y="150" width="494" height="500" rx="40" fill="#FFFFFF"/>
+  <circle cx="324" cy="416" r="112" fill="#E7C66A"/>
+  <circle cx="324" cy="416" r="72" fill="#FFFFFF"/>
+  <rect x="406" y="286" width="112" height="112" rx="24" transform="rotate(18 406 286)" fill="#C9D2E3"/>
+  <rect x="684" y="184" width="362" height="120" rx="32" fill="#FFFFFF"/>
+  <rect x="684" y="346" width="316" height="120" rx="32" fill="#FFFFFF"/>
+  <rect x="684" y="508" width="244" height="120" rx="32" fill="#FFFFFF"/>
+  <text x="736" y="258" fill="#163329" font-family="'Noto Sans JP', sans-serif" font-size="50" font-weight="700">貴金属</text>
+  <text x="736" y="422" fill="#2C4C76" font-family="'Noto Sans JP', sans-serif" font-size="40" font-weight="700">相場ベース査定</text>
+  <text x="736" y="588" fill="#395F90" font-family="'Noto Sans JP', sans-serif" font-size="34" font-weight="700">切れたチェーンも可</text>
+</svg>
