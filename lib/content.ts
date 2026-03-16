@@ -44,6 +44,14 @@ export type FaqItem = {
 
 export const methods: Method[] = [
   {
+    slug: "ai-system",
+    title: "AIシステム開発",
+    lead: "生成AIや業務自動化を現場に合わせて設計・開発",
+    description:
+      "社内業務の効率化、問い合わせ対応、データ活用などの課題に合わせて、AIを活用したシステム開発と導入支援を行います。要件整理から試作、実装、運用改善まで一貫して伴走します。",
+    points: ["生成AI活用の要件整理", "業務フローに合わせた個別開発", "導入後の改善と運用サポート"]
+  },
+  {
     slug: "store",
     title: "店頭買取",
     lead: "その場で査定、即日現金化にも対応",
